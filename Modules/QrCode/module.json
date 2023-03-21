@@ -1,0 +1,11 @@
+{
+    "name": "QrCode",
+    "alias": "qrcode",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\QrCode\\Providers\\QrCodeServiceProvider"
+    ],
+    "files": []
+}
